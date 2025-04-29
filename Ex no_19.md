@@ -31,6 +31,7 @@ count++;
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/bc22aa01-e6d3-4aad-abbf-38ab0f6b7f09)
 
 
 ## Result:
